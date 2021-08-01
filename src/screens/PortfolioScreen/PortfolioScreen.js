@@ -32,6 +32,87 @@ const PortfolioCoins = [
     amount: 30,
     valueUSD: 30120,
   },
+  {
+    id: "1",
+    name: "Virtual Dollars",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "USD",
+    amount: 69.4,
+    valueUSD: 69420,
+  },
+  {
+    id: "2",
+    name: "Bitcoin",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "USD",
+    amount: 1.12,
+    valueUSD: 30420,
+  },
+  {
+    id: "3",
+    name: "Etherium",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "ETH",
+    amount: 30,
+    valueUSD: 30120,
+  },
+  {
+    id: "1",
+    name: "Virtual Dollars",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "USD",
+    amount: 69.4,
+    valueUSD: 69420,
+  },
+  {
+    id: "2",
+    name: "Bitcoin",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "USD",
+    amount: 1.12,
+    valueUSD: 30420,
+  },
+  {
+    id: "3",
+    name: "Etherium",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "ETH",
+    amount: 30,
+    valueUSD: 30120,
+  },
+  {
+    id: "1",
+    name: "Virtual Dollars",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "USD",
+    amount: 69.4,
+    valueUSD: 69420,
+  },
+  {
+    id: "2",
+    name: "Bitcoin",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "USD",
+    amount: 1.12,
+    valueUSD: 30420,
+  },
+  {
+    id: "3",
+    name: "Etherium",
+    image:
+      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/cleancode.jpg",
+    symbol: "ETH",
+    amount: 30,
+    valueUSD: 30120,
+  },
 ];
 
 const PortfolioScreen = () => {
